@@ -1,12 +1,12 @@
 -- The macro to use when the key is pressed
-local DOWN_MACRO = [[
+local DOWN_MACRO = [==[
 /use Burning Rush
-]]
+]==]
 
 -- The macro to use when the key is released
-local UP_MACRO = [[
+local UP_MACRO = [==[
 /stopcasting [channelling]
-]]
+]==]
 
 -------------------
 -- END OF CONFIG --
