@@ -13,7 +13,7 @@ local UP_MACRO = [==[
 -------------------
 
 _G["BINDING_HEADER_KeyPressedReleasedMacroButton"] = "Key Pressed/Released Macro Button"
-_G["BINDING_NAME_CLICK KeyPressedReleasedMacroButton"] = "Use Button"
+_G["BINDING_NAME_CLICK KeyPressedReleasedMacroButton:LeftButton"] = "Use Button"
 
 local button = CreateFrame("Button", "KeyPressedReleasedMacroButton", nil, "SecureActionButtonTemplate")
 button:RegisterForClicks("AnyUp", "AnyDown")

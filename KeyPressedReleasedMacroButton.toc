@@ -2,6 +2,6 @@
 ## Interface: 60000
 ## Author: Choonster
 ## Notes: Allows you to bind separate macros to the up and down strokes of a key.
-## Version: 1.0
+## Version: 1.1
 
 core.lua

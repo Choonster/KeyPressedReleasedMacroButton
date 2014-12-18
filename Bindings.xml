@@ -1,5 +1,5 @@
 <Bindings>
-	<Binding name="CLICK KeyPressedReleasedMacroButton" runOnUp="true" header="KeyPressedReleasedMacroButton" category="ADDONS">
+	<Binding name="CLICK KeyPressedReleasedMacroButton:LeftButton" runOnUp="true" header="KeyPressedReleasedMacroButton" category="ADDONS">
 		-- Dummy comment
 	</Binding>
 </Bindings>
